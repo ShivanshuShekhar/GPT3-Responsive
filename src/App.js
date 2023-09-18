@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Article, Brand, CTA, Feature, Navbar } from './components';
-
+import { Footer, Blog, Possiblity, Features, WhatGPT3, Header } from './containers';
+import { Navbar, CTA, Brand } from './components';
 
 const App = () => {
   return (
